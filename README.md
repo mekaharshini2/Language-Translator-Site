@@ -5,9 +5,6 @@
 
 A simple Language Translator app that allows users to translate text between different languages. The app integrates with a translation API to fetch translations in real time. In addition, it includes functionality to copy the translated text and speak the translated text aloud using the browser's text-to-speech feature.
 
-## 🌐 Live Demo
-Check out the live demo of the Language Translator App [here](https://languages-translators.netlify.app/).
-
 ## 📸 Project Preview
 Here's a sneak peek of the Language Translator App:
 
@@ -34,19 +31,15 @@ Make sure you have **Git** installed. If not, you can download it [here](https:/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/DevGoyalG/Language-Translator-App.git
+git clone https://github.com/mekaharshini2/Language-Translator-Site.git
 ```
 
 ### 3. Set up the API Key
 - Sign up for a free account at Google Cloud Translate API or use an open-source option like LibreTranslate.
 - After getting your API key, configure it in your JavaScript file (app.js) where the API key needs to be inserted.
 
-
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions or want to report an issue, feel free to open an issue or create a pull request.
-
 ## 👨‍💻 Created by
 This project was created and is maintained by:
-**Dev Goyal**
+**Harshini Meka**
 
-Feel free to reach out if you have any questions or suggestions! ❤️
+
